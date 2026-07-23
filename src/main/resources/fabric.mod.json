@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "grapple",
+  "version": "1.0.0",
+  "name": "Grapple Mod",
+  "authors": ["qwertym12"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.qwertym12.grapple.GrappleMod"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": ">=1.21" }
+}
